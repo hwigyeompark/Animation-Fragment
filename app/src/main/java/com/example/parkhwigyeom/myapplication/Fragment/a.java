@@ -8,7 +8,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.example.kmpkm.pager.R;
+import com.example.parkhwigyeom.myapplication.R;
 
 public class a extends Fragment {
 
