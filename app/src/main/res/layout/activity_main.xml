@@ -22,19 +22,19 @@
                 android:id="@+id/img1"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:src="@drawable/image1" />
+                android:src="@drawable/pic_one" />
 
             <ImageView
                 android:id="@+id/img2"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:src="@drawable/image2" />
+                android:src="@drawable/pic_two" />
 
             <ImageView
                 android:id="@+id/img3"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:src="@drawable/image3" />
+                android:src="@drawable/pic_three" />
 
         </ViewFlipper>
         <LinearLayout
